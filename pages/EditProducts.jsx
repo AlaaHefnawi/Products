@@ -2,7 +2,7 @@ import axios from 'axios'
 import { useEffect, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import ProductForm from '../components/ProductForm/ProductForm'
-import uploadicon from "./../src/assets/upload-icon.svg"
+import uploadicon from "./../src/assets/Upload-icon.svg"
 
 
 const EditProducts = () => {

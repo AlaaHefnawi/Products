@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import "./AuthForm.css"
-import uploadicon from "./../../src/assets/upload-icon.svg"
+import uploadicon from "./../../src/assets/Upload-icon.svg"
 import { useState } from "react"
 
 
